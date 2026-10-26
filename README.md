@@ -11,7 +11,7 @@
 
 ## 应用内更新
 
-从 0.2.0 起，状态栏菜单和设置均可“检查更新”，由 Sparkle 完成下载、签名校验、安装和重启。自动检查、自动下载可在设置中开关。0.1.0 用户需要手动安装 0.2.0 一次。
+从 0.2.0 起，状态栏菜单和设置均可“检查更新”，由 Sparkle 完成下载、签名校验、安装和重启。0.2.1 起始终自动检查更新，后台发现新版本时在设置页提示；自动下载可在设置中开关。0.1.0 用户需要先手动安装最新版一次。
 
 - [Sparkle 更新索引](https://github.com/Raphaelque/liubai-releases/releases/latest/download/appcast.xml)
 - [版本清单](https://github.com/Raphaelque/liubai-releases/releases/latest/download/latest.json)
