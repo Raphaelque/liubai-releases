@@ -1,0 +1,8 @@
+{
+  "version": "0.2.5",
+  "build": 7,
+  "minimumSystemVersion": "14.0",
+  "downloadURL": "https://github.com/Raphaelque/liubai-releases/releases/download/v0.2.5/Liubai-0.2.5.dmg",
+  "releaseURL": "https://github.com/Raphaelque/liubai-releases/releases/tag/v0.2.5",
+  "notes": "留白 0.2.5\n\n优化极简窗口的文字可读性和任务列表滚动，最小窗口稳定保持 160 × 160，边界处不再显示被截断的任务行。\n新增一键缩小／恢复窗口和菜单栏「置顶」，切换窗口大小不打断计时。\n专注圆环新增可拖动刻标，松开调整当前阶段剩余时间，保留运行／暂停状态；支持键盘调整与取消。\n调整专注暂停时的灰色播放图形，使其围绕圆环居中，并优化浅深色显示。\n简化 DMG 安装窗口，仅保留留白与 Applications，拖入即可安装。安装包统一命名为「Liubai-版本号」。\nRelease 仅提供 DMG 和 ZIP，更新索引迁移到独立地址，保留自动检查、下载、签名验证及安装。\n\n升级提示：0.2.4 及更早版本需要从此页面手动下载并安装一次 0.2.5，之后继续使用应用内自动更新。更新保留本地任务、设置与计时数据。\n"
+}
